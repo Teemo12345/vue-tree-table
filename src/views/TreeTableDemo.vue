@@ -28,6 +28,9 @@ export default {
       operationMsg: ''
     }
   },
+  mounted () {
+    console.log('tet')
+  },
   methods: {
     onSort(obj) {
       let {currRow, swapRow, direction} = obj
