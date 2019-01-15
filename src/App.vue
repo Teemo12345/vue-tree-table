@@ -5,9 +5,16 @@
       <router-link to="/about">About</router-link> |
       <router-link to="/tree-table">TreeTable</router-link>
     </div> -->
-    <router-view/>
+    <!-- <router-view/> -->
+    <tree-table></tree-table>
   </div>
 </template>
+<script>
+import TreeTable from './views/TreeTableDemo.vue'
+export default {
+  components: {TreeTable}
+}
+</script>
 
 <style lang="less">
 #app {
