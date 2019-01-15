@@ -55,7 +55,7 @@ export default {
 | bodyData| 显示的结构化数据|Array|
 | headData| 表格列的配置描述|Array|
 
-###methods
+### methods
 | 属性        | 说明           | 类型  |
 | ------------- |:-------------:| -----:|
 | @on-sort | 排序成功后方法传递|方法|
