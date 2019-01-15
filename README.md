@@ -72,7 +72,7 @@ export default {
 | type        |'operation' 操作功能,  必填参数:operations:[{}]|String|#
 
 ## DEMO演示
-### [DEMO](https://huanglong6828.github.io/vue-tree-grid/dist/index.html) 如果对您如果有帮助的话,给颗星谢谢
+### [DEMO](https://teemo12345.github.io/vue-tree-table/index.html) 如果对您如果有帮助的话,给颗星谢谢
 
 
 ## 使用方式
