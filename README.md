@@ -1,7 +1,7 @@
 # vue-tree-table
 ## 功能
-层级折叠，显示隐藏（非平铺数组，保持原有数组结构）
-通过按钮向上、向下移动排序
+* 层级折叠，显示隐藏（非平铺数组，保持原有数组结构）
+* 通过按钮向上、向下移动排序
 
 ## 使用方式
 ```html
@@ -72,7 +72,7 @@ export default {
 | type        |'operation' 操作功能,  必填参数:operations:[{}]|String|#
 
 ## DEMO演示
-### [DEMO](https://teemo12345.github.io/vue-tree-table/docs/) 如果对您如果有帮助的话,给颗星谢谢
+### [DEMO](https://teemo12345.github.io/vue-tree-table/) 如果对您如果有帮助的话,给颗星谢谢
 ![avatar](https://raw.githubusercontent.com/Teemo12345/vue-tree-table/master/public/20190115233259019.jpg)
 
 ## 使用方式
